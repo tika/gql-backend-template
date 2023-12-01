@@ -1,15 +1,10 @@
-# planorama-backend
+# gql-backend-template
 
-To install dependencies:
+basic apollo server setup with following libs:
 
-```bash
-bun install
-```
+- prisma
+- pothos
+- graphql
+- zod
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.0.14. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+bun is used as package manager
